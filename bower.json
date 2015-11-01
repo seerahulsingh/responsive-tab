@@ -4,7 +4,7 @@
     "Rahul Singh <rahul@akaruilabs.com>"
   ],
   "description": "Minimal bootstrap responsive tab js",
-  "main": "responsive-tab.js",
+  "main": "src/responsive-tab.js",
   "moduleType": [],
   "keywords": [
     "Bootstrap",
@@ -16,8 +16,6 @@
   "homepage": "https://github.com/irahulsingh/responsive-tab",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
     "demo"
   ]
 }
