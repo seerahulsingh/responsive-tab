@@ -1,0 +1,23 @@
+{
+  "name": "responsive-tab",
+  "authors": [
+    "Rahul Singh <rahul@akaruilabs.com>"
+  ],
+  "description": "Minimal bootstrap responsive tab js",
+  "main": "responsive-tab.js",
+  "moduleType": [],
+  "keywords": [
+    "Bootstrap",
+    "Nav",
+    "Tabs",
+    "Responsive",
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/irahulsingh/responsive-tab",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo"
+  ]
+}
