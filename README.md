@@ -1,6 +1,6 @@
 ## Minimal Bootstrap Responsive Tab JS
 
-## Install & Usage
+#### Install & Usage
 
 Include `src/responsive-tab.js` in you html head
 
@@ -10,7 +10,7 @@ Include `src/responsive-tab.js` in you html head
 and that's it, it will lookup for bootstrap's standard selectors `ul.nav-tabs`, `li.dropdown` && `ul.dropdown-menu` and auto init reflow of nav items.
 
 
-## Nav Tabs Sample Structure
+#### Nav Tabs Sample Structure
 ```
 <ul class="nav nav-tabs">
   <li class="active"><a href="#home" role="tab" data-toggle="tab">Home</a></li>
