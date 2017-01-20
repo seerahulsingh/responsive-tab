@@ -4,14 +4,14 @@
 
 Include `src/responsive-tab.js` in you html head
 
-```
+```html
 <script type="text/javascript" src="./src/responsive-tab.js"></script>
 ```
 and that's it, it will lookup for bootstrap's standard selectors `ul.nav-tabs`, `li.dropdown` && `ul.dropdown-menu` and auto init reflow of nav items.
 
 
 #### Nav Tabs Sample Structure
-```
+```js
 <ul class="nav nav-tabs">
   <li class="active"><a href="#home" role="tab" data-toggle="tab">Home</a></li>
   <li><a href="#profile" role="tab" data-toggle="tab">Profile</a></li>
